@@ -26,6 +26,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     max-width: 22rem;
+    box-shadow: 1px 19px 5rem 0rem rgb(0 0 0 / 75%);
 }
 
 .imges {
